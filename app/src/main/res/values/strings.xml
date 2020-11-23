@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NearbyApp</string>
+
+    <string name="location_access_needed">Aquesta aplicació necessita acces a la ubicació</string>
+    <string name="grant_location_access">Si us plau, concedeixi permisos de ubicació para que la aplicación pueda detectar beacons</string>
+    <string name="not_support_bluetooth_msg">Aquest dispositiu no soporta bluetooth, no és posible buscar beacons</string>
+    <string name="cancel_button_text">Cancel·lar</string>
+    <string name="location_disabled">Ubicació en mode d\'alta precisión no activat</string>
+    <string name="location_settings">Obrir la configuració de la ubicació</string>
+    <string name="location_not_granted">Ja que el permís de ubicació no ha sigut concedit, aquesta aplicació no podra buscar beacons</string>
+    <string name="funcionality_limited">Funcionalitat limitada</string>
+    <string name="no_bluetooth_msg">Amb el bluetooth desactivat no es possible buscar beacons</string>
+    <string name="start_looking_for_beacons">Començant a cercar beacons</string>
+    <string name="stop_looking_for_beacons">Parant la cerca de beacons</string>
+    <string name="no_beacons_detected">No s\'han trobat beacons</string>
+    <string name="beacon_detected">Oferta número %1$s detectada!!</string>
+
+    <string name="p_blth_dialog_title">EL BLUETOOTH NO ESTA ACTIVAT</string>
+    <string name="p_loc_dialog_title">LA LOCALITZACIÓ NO ESTA ACTIVADA</string>
+    <string name="p_dialog_desc">Aquest dispositiu necesita que li concedexis permissos per poder treballar amb Beacons</string>
+    <string name="title_activity_beacon_settings">Configuració dels Beacons</string>
+
+
+
+
+
+</resources>

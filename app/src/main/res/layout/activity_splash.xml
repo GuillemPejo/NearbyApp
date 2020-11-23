@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/m_splash_screen_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="Vistes.SplashActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/titol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Guillem Pejó Vergara"
+        android:textAlignment="center"
+        android:textColor="@color/colorTitolColor"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/subtitol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Treball de final de cicle · DAM2 FJE Clot"
+        android:textAlignment="center"
+        android:textColor="@color/colorTitolColor"
+        android:textSize="18sp" />
+
+</LinearLayout>
