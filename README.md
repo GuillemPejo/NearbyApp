@@ -12,7 +12,9 @@ Final degree project, which aims to be a demo of the potential of Beacon technol
 - *AddCommerce* -> Allows you to add new commerces in the database, linked to Firebase, and add new ids and beacons notifications.
 
 <br>
+
 [View the entire presentation of the project](https://docs.google.com/presentation/d/1hJ6nnSEM0kcwbc6c7nZOCVWkU_Kt3khPl5_sbazopHc/edit?usp=sharing)
+
 <br><br>
 
 <img src="diagrama_app_TFC.png" alt="drawing" width="800"/>
